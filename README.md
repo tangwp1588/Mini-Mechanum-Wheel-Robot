@@ -26,7 +26,7 @@ A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-
 | [`lateral_movement_no_pid.mp4`](video/lateral_movement_no_pid.mp4) | Lateral movement without PID (drift visible) |
 | [`lateral_movement_with_pid.mp4`](video/lateral_movement_with_pid.mp4) | Lateral movement with orientation PID active |
 | [`foc.mp4`](video/foc.mp4) | Absolute field-oriented control demo |
-| [`pid_menu.mp4`](video/pid_menu.mp4) | On-board PID tuning menu on LCD |
+| [`pid_menu.mp4`](https://youtu.be/lcQUk2T1LM4?si=rOg1BIaivM7QJVvr) | On-board PID tuning menu on LCD |
 
 ---
 
