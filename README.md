@@ -21,13 +21,13 @@ A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-
 
 | Video | Description |
 |---|---|
-| [`demonstration_yaw_pid.mp4`](https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD) | Yaw PID orientation correction in action |
-| [`circular_movement_no_pid.mp4`](https://youtu.be/tIPLqOVqF0E?si=LInQARhww9oBqlkp) | Circular movement without PID |
-| [`circular_movement_with_pid.mp4`](https://youtu.be/zL731xuKqPI?si=oEz85-FffTZKwK0l) | Circular movement without PID |
-| [`lateral_movement_no_pid.mp4`](https://youtu.be/0gELg2SBPxo?si=uxx6zX-W0JFL4s1f) | Lateral movement without PID (drift visible) |
-| [`lateral_movement_with_pid.mp4`](https://youtu.be/wuhcH3w_rd0?si=oFXOrNfrPluLR-e1) | Lateral movement with orientation PID active |
-| [`foc.mp4`](https://youtu.be/A75sVBpRvhQ?si=4BdPLSrhaBGgYdHK) | Absolute field-oriented control demo |
-| [`pid_menu.mp4`](https://youtu.be/lcQUk2T1LM4?si=rOg1BIaivM7QJVvr) | On-board PID tuning menu on LCD |
+| [`1`](https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD) | Yaw PID orientation correction in action |
+| [`2`](https://youtu.be/A75sVBpRvhQ?si=4BdPLSrhaBGgYdHK) | Absolute field-oriented control demo |
+| [`3`](https://youtu.be/tIPLqOVqF0E?si=LInQARhww9oBqlkp) | Circular movement without PID (drift visible)|
+| [`4`](https://youtu.be/zL731xuKqPI?si=oEz85-FffTZKwK0l) | Circular movement without PID |
+| [`5`](https://youtu.be/0gELg2SBPxo?si=uxx6zX-W0JFL4s1f) | Lateral movement without PID (drift visible) |
+| [`6`](https://youtu.be/wuhcH3w_rd0?si=oFXOrNfrPluLR-e1) | Lateral movement with orientation PID active |
+| [`7`](https://youtu.be/lcQUk2T1LM4?si=rOg1BIaivM7QJVvr) | On-board PID tuning menu on LCD |
 
 ---
 
