@@ -1,5 +1,5 @@
 # 🤖 STM32 Mecanum Wheel Robot
-<img src="images/mini-mechanum-wheel-robot.jpg" alt="Mecanum Wheel Robot" width="500"/>
+<img src="mini-mechanum-wheel-robot.jpg" alt="Mecanum Wheel Robot" width="500"/>
 A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-loop motor speed PID control and orientation PID for robust omnidirectional movement — including a full **Field-Oriented Control (FOC)** drive mode.
 
 ---
