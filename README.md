@@ -24,7 +24,7 @@ src="https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD">
 
 | Video | Description |
 |---|---|
-| [![Watch the video](https://img.youtube.com/vi/DZKMX0H58ZI/0.jpg)](https://www.youtube.com/watch?v=DZKMX0H58ZI) | Yaw PID orientation correction in action |
+| [![Watch the video](https://img.youtube.com/vi/DZKMX0H58ZI/maxresdefault.jpg)](https://www.youtube.com/watch?v=DZKMX0H58ZI) | Yaw PID orientation correction in action |
 | [`2`](https://youtu.be/A75sVBpRvhQ?si=4BdPLSrhaBGgYdHK) | Absolute field-oriented control demo |
 | [`3`](https://youtu.be/tIPLqOVqF0E?si=LInQARhww9oBqlkp) | Circular movement without PID (drift visible)|
 | [`4`](https://youtu.be/zL731xuKqPI?si=oEz85-FffTZKwK0l) | Circular movement without PID |
