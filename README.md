@@ -37,7 +37,7 @@ A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-
 |---|---|
 | **Microcontroller** | STM32F407VGT6 |
 | **Wireless Module** | ESP32 |
-| **IMU** | BNO085 (rotation vector / absolute orientation) |
+| **IMU** | BNO085 (rotation vector) |
 | **Motor Driver** | TB6612FNG module |
 | **Motors** | 4× TT Motor with encoder |
 | **Wheels** | 68mm plastic mecanum wheels |
