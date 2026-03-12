@@ -17,7 +17,7 @@ A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-
 
 ## 🎬 Demo Videos
 
-
+<iframe width="560" height="315" src="https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD" frameborder="0" allowfullscreen></iframe>
 > click the number to watch the demo video
 
 | Video | Description |
