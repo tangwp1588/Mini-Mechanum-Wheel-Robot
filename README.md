@@ -17,11 +17,12 @@ A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-
 
 ## 🎬 Demo Videos
 
+
 > click the number to watch the demo video
 
 | Video | Description |
 |---|---|
-| [`1`](https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD) | Yaw PID orientation correction in action |
+| <iframe width="560" height="315" src="https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD" frameborder="0" allowfullscreen></iframe> | Yaw PID orientation correction in action |
 | [`2`](https://youtu.be/A75sVBpRvhQ?si=4BdPLSrhaBGgYdHK) | Absolute field-oriented control demo |
 | [`3`](https://youtu.be/tIPLqOVqF0E?si=LInQARhww9oBqlkp) | Circular movement without PID (drift visible)|
 | [`4`](https://youtu.be/zL731xuKqPI?si=oEz85-FffTZKwK0l) | Circular movement without PID |
