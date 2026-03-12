@@ -16,21 +16,17 @@ A mini mecanum wheel robot built around the **STM32F407VGT6**, featuring closed-
 ---
 
 ## 🎬 Demo Videos
-
-<iframe width="420" height="315"
-src="https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD">
-</iframe>
-> click the number to watch the demo video
+Click the picture to watch the video
 
 | Video | Description |
 |---|---|
-| [![Watch the video](https://img.youtube.com/vi/DZKMX0H58ZI/maxresdefault.jpg)](https://www.youtube.com/watch?v=DZKMX0H58ZI) | Yaw PID orientation correction in action |
-| [`2`](https://youtu.be/A75sVBpRvhQ?si=4BdPLSrhaBGgYdHK) | Absolute field-oriented control demo |
-| [`3`](https://youtu.be/tIPLqOVqF0E?si=LInQARhww9oBqlkp) | Circular movement without PID (drift visible)|
-| [`4`](https://youtu.be/zL731xuKqPI?si=oEz85-FffTZKwK0l) | Circular movement without PID |
-| [`5`](https://youtu.be/0gELg2SBPxo?si=uxx6zX-W0JFL4s1f) | Lateral movement without PID (drift visible) |
-| [`6`](https://youtu.be/wuhcH3w_rd0?si=oFXOrNfrPluLR-e1) | Lateral movement with orientation PID active |
-| [`7`](https://youtu.be/lcQUk2T1LM4?si=rOg1BIaivM7QJVvr) | On-board PID tuning menu on LCD |
+| <a href="https://www.youtube.com/watch?v=DZKMX0H58ZI"><img src="https://img.youtube.com/vi/DZKMX0H58ZI/maxresdefault.jpg" width="200"></a> | Yaw PID orientation correction in action |
+| <a href="https://youtu.be/A75sVBpRvhQ"><img src="https://img.youtube.com/vi/A75sVBpRvhQ/maxresdefault.jpg" width="200"></a> | Absolute field-oriented control demo |
+| <a href="https://youtu.be/tIPLqOVqF0E"><img src="https://img.youtube.com/vi/tIPLqOVqF0E/maxresdefault.jpg" width="200"></a> | Circular movement without PID (drift visible) |
+| <a href="https://youtu.be/zL731xuKqPI"><img src="https://img.youtube.com/vi/zL731xuKqPI/maxresdefault.jpg" width="200"></a> | Circular movement without PID |
+| <a href="https://youtu.be/0gELg2SBPxo"><img src="https://img.youtube.com/vi/0gELg2SBPxo/maxresdefault.jpg" width="200"></a> | Lateral movement without PID (drift visible) |
+| <a href="https://youtu.be/wuhcH3w_rd0"><img src="https://img.youtube.com/vi/wuhcH3w_rd0/maxresdefault.jpg" width="200"></a> | Lateral movement with orientation PID active |
+| <a href="https://youtu.be/lcQUk2T1LM4"><img src="https://img.youtube.com/vi/lcQUk2T1LM4/maxresdefault.jpg" width="200"></a> | On-board PID tuning menu on LCD |
 
 ---
 
@@ -55,8 +51,8 @@ src="https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD">
          ┌─────────────────────────────────────────────┐
          │                STM32F407VGT6                │
          │                                             │
- ESP32 ──►  Joystick Input / Drive Mode Select        │
- BNO085 ──►  Yaw / Orientation Feedback               │
+ ESP32  ──►  Joystick Input / Drive Mode Select        │
+ BNO085 ──►  Yaw / Orientation Feedback                │
          │           │                                 │
          │    ┌──────▼──────┐                          │
          │    │ Orientation │  Yaw PID correction      │
@@ -75,8 +71,8 @@ src="https://youtu.be/DZKMX0H58ZI?si=J2i-f-OPjciT31iD">
                      │
               TB6612 Motor Driver
                      │
-          ┌──┬───────┴───────┬──┐
-         M1  M2             M3  M4
+               ┌──┬──┴──┬──┐
+              M1  M2   M3  M4
 ```
 
 ### Drive Modes
