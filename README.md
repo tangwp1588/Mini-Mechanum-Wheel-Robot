@@ -23,7 +23,7 @@ Click the picture to watch the video
 | <a href="https://www.youtube.com/watch?v=DZKMX0H58ZI"><img src="https://img.youtube.com/vi/DZKMX0H58ZI/maxresdefault.jpg" width="200"></a> | Yaw PID orientation correction in action |
 | <a href="https://youtu.be/A75sVBpRvhQ"><img src="https://img.youtube.com/vi/A75sVBpRvhQ/maxresdefault.jpg" width="200"></a> | Absolute field-oriented control demo |
 | <a href="https://youtu.be/tIPLqOVqF0E"><img src="https://img.youtube.com/vi/tIPLqOVqF0E/maxresdefault.jpg" width="200"></a> | Circular movement without PID (drift visible) |
-| <a href="https://youtu.be/zL731xuKqPI"><img src="https://img.youtube.com/vi/zL731xuKqPI/maxresdefault.jpg" width="200"></a> | Circular movement without PID |
+| <a href="https://youtu.be/zL731xuKqPI"><img src="https://img.youtube.com/vi/zL731xuKqPI/maxresdefault.jpg" width="200"></a> | Circular movement with PID |
 | <a href="https://youtu.be/0gELg2SBPxo"><img src="https://img.youtube.com/vi/0gELg2SBPxo/maxresdefault.jpg" width="200"></a> | Lateral movement without PID (drift visible) |
 | <a href="https://youtu.be/wuhcH3w_rd0"><img src="https://img.youtube.com/vi/wuhcH3w_rd0/maxresdefault.jpg" width="200"></a> | Lateral movement with orientation PID active |
 | <a href="https://youtu.be/lcQUk2T1LM4"><img src="https://img.youtube.com/vi/lcQUk2T1LM4/maxresdefault.jpg" width="200"></a> | On-board PID tuning menu on LCD |
